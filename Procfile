@@ -1,1 +1,1 @@
-worker node npm run dev
+web: yarn serve
