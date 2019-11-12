@@ -1,12 +1,20 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
-    <router-view />
+    <nav-menu></nav-menu>
+    <router-view id="router"></router-view>
   </div>
 </template>
+
+<script>
+import Navigation from "../src/components/Navigation";
+
+export default {
+  name: "app",
+  components: {
+    "nav-menu": Navigation
+  }
+};
+</script>
 
 <style>
 #app {
@@ -14,19 +22,11 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
+  min-height: 100vh;
   color: #2c3e50;
+  background: lightgray;
 }
-
-#nav {
-  padding: 30px;
-}
-
-#nav a {
-  font-weight: bold;
-  color: #2c3e50;
-}
-
-#nav a.router-link-exact-active {
-  color: #42b983;
+#router {
+  padding-top: 70px;
 }
 </style>
