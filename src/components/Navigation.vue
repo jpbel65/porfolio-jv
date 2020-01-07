@@ -5,17 +5,13 @@
 
       <!-- Navbar dropdowns -->
       <b-nav-item-dropdown text="Projet d'école">
-        <b-dropdown-item href="#">Robot autonome</b-dropdown-item>
-        <b-dropdown-item href="#">Plateforme de musique</b-dropdown-item>
-        <b-dropdown-item href="#">Interface de dessin</b-dropdown-item>
-        <b-dropdown-item href="#">Interface musical</b-dropdown-item>
+        <b-dropdown-item to="/AirHockey">Jeu Air Hockey</b-dropdown-item>
+        <b-dropdown-item to="/Design3">Robot autonome</b-dropdown-item>
       </b-nav-item-dropdown>
 
       <b-nav-item-dropdown text="Projet personnel">
         <b-dropdown-item to="/rpg2d">RPG 2D</b-dropdown-item>
       </b-nav-item-dropdown>
-
-      <b-nav-item to="/about">About</b-nav-item>
     </b-navbar-nav>
   </b-navbar>
 </template>
