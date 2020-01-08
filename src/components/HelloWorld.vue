@@ -5,8 +5,8 @@
     <b-row id="element">
       <b-col sm="4">
         Je suis étudiant en 3eme année en génie logiciel à l'université Laval.
-        Je suis une personne débrouillard, social et investit dans son travail.
-        Je suis passionné de jeu vidéo et de culture vidéo-ludique. Je cherche à
+        Je suis débrouillard, social et investit dans mon travail. Je suis
+        passionné de jeu vidéo et de culture vidéo-ludique. Je cherche à
         agrandir mes connaissances dans le métier de la production de jeu
         vidéo.<br />
         <br />
