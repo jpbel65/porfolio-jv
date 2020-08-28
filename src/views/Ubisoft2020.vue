@@ -5,7 +5,7 @@
       <h2>Concept Général</h2>
       Ce projet est le jeu présenté lors du concours universitaire d'ubisoft
       durant l'année 2020. <br />Le jeu doit contenir certain élément qui
-      démontre la présence de trois pillier : <br />
+      démontre la présence de trois piliers : <br />
       La génération, la coopération et la progression.
     </div>
     <b-container>
@@ -15,10 +15,10 @@
         </b-col>
         <b-col sm="4">
           <h3>Génération</h3>
-          Ce pillier est représenté par la génération des énigmes à résoudre.
+          Ce pilier est représenté par la génération des énigmes à résoudre.
           <br />
           <br />Chaque énigme est choisie aléatoirement à chaque fois que la
-          scène est généré.
+          scène est générée.
         </b-col>
       </b-row>
     </b-container>
@@ -27,7 +27,7 @@
         <b-col sm="4">
           <h3>Coopération</h3>
           Pour la coopération, il est obligatoire de travailler en équipe pour
-          résoudre les différentes égnimes.
+          résoudre les différentes énigmes.
         </b-col>
         <b-col sm="8">
           <img
@@ -57,9 +57,9 @@
         </b-col>
         <b-col sm="4">
           <h3>Progression</h3>
-          Au fil est égnime les joueurs pourront amélioré leur pouvoir
-          respectif. Commme porté des objets plus lourds ou pouvoir faire
-          plusieurs saut de suite.
+          Au fil des énigmes, les joueurs pourront améliorer leur pouvoir
+          respectif. Tel que portée des objets plus lourds ou pouvoir faire
+          plusieurs sauts de suite.
         </b-col>
       </b-row>
     </b-container>

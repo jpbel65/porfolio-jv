@@ -3,9 +3,9 @@
     <h1>Projet de génie logiciel avec Fika Productions</h1>
     <div class="element">
       <h2>Concept Général</h2>
-      Ce projet est une idée sousmise dans le cadere du cours projet de génie
-      logiciel à l'hiver 2020 par Fika Productions.<br />
-      Il avait comme but de construire une librairie de commmunication en ligne.
+      Ce projet est une idée soumise dans le cadre du cours projet de génie
+      logiciel en hiver 2020 par Fika Productions.<br />
+      Il avait comme but de construire une librairie de communication en ligne.
     </div>
     <b-container>
       <b-row class="element">
@@ -23,7 +23,7 @@
       <b-row class="element">
         <b-col sm="4">
           <h3>Interface mobile/bureau</h3>
-          Le projet contient aussi une platforme web pour les joueurs.
+          Le projet contient aussi une plateforme web pour les joueurs.
         </b-col>
         <b-col sm="8">
           <img
