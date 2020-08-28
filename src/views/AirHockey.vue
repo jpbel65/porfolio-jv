@@ -1,13 +1,13 @@
 <template>
   <div class="'AirHockey'">
     <h1>Projet Scolaire : Jeu Air Hockey</h1>
-    <div id="element">
+    <div class="element">
       <h2>Concept Général</h2>
       Ce projet est un jeu de air hockey crée en équipe de 2 dans le cadre du
       cours IFT-2103 Programmation de jeu video de l'université laval.
     </div>
     <b-container>
-      <b-row id="element">
+      <b-row class="element">
         <b-col sm="8">
           <img alt="gif" src="../assets/audiomanager.png" />
         </b-col>
@@ -31,7 +31,7 @@
       </b-row>
     </b-container>
     <b-container>
-      <b-row id="element">
+      <b-row class="element">
         <b-col sm="4">
           <h3>Effet de Particule</h3>
           Les particules utilisent un système de "pooling" pour allégé le jeu de
@@ -53,7 +53,7 @@
       </b-row>
     </b-container>
     <b-container>
-      <b-row id="element">
+      <b-row class="element">
         <b-col sm="8">
           <img alt="gif" src="../assets/control.gif" />
         </b-col>
@@ -69,7 +69,7 @@
       </b-row>
     </b-container>
     <b-container id="endDoc">
-      <b-row id="element" class="text-center">
+      <b-row class="element">
         <b-col>
           <h3>Lien GitHub:</h3>
           <a href="https://github.com/jpbel65/JV-A2019-IFT-2103"
@@ -88,7 +88,7 @@ export default {
 </script>
 
 <style scoped>
-#element {
+.element {
   padding-top: 50px;
   text-align: center;
 }

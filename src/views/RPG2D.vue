@@ -1,13 +1,13 @@
 <template>
   <div class="'RPG2D'">
     <h1>Projet Personnel : RPG2D</h1>
-    <div id="element">
+    <div class="element">
       <h2>Concept Général</h2>
       Ce projet est un RPG d'aventure qui reprend des concept classique de Zelda
-      1 The legend Of Zelda et des jeux de style RPG maker.
+      sur NES et des jeux de style RPG maker.
     </div>
     <b-container>
-      <b-row id="element">
+      <b-row class="element">
         <b-col sm="8">
           <img alt="gif" src="../assets/inventory.gif" />
         </b-col>
@@ -32,7 +32,7 @@
       </b-row>
     </b-container>
     <b-container>
-      <b-row id="element">
+      <b-row class="element">
         <b-col sm="4">
           <h3>Monstre</h3>
           L'univers du jeu est peuplé de monstre diverse qui propose différents
@@ -50,7 +50,7 @@
       </b-row>
     </b-container>
     <b-container>
-      <b-row id="element">
+      <b-row class="element">
         <b-col sm="8">
           <img alt="gif" src="../assets/sort.gif" />
         </b-col>
@@ -72,7 +72,7 @@
       </b-row>
     </b-container>
     <b-container>
-      <b-row id="element">
+      <b-row class="element">
         <b-col sm="4">
           <h3>Tileset</h3>
           Le projet contient 4 couches de Tileset pour créer un effet de
@@ -89,7 +89,7 @@
       </b-row>
     </b-container>
     <b-container id="endDoc">
-      <b-row id="element" class="text-center">
+      <b-row class="element">
         <b-col>
           <h3>Lien GitHub:</h3>
           <a href="https://github.com/jpbel65/RPG-2D"
@@ -108,16 +108,12 @@ export default {
 </script>
 
 <style scoped>
-#element {
+.element {
   padding-top: 50px;
   text-align: center;
 }
 
 #endDoc {
   padding-bottom: 75px;
-}
-
-#colone {
-  text-align: center;
 }
 </style>
