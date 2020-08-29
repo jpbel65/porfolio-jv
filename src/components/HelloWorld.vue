@@ -28,7 +28,7 @@
           src="../assets/IMG_20191225_150844.jpg"
           width="400"
           height="300"
-          style="transform: rotate(90deg)"
+          style="transform: rotate(270deg)"
         />
       </b-col>
     </b-row>
