@@ -1,7 +1,7 @@
 <template>
   <div class="'Design3'">
     <h1>Projet Scolaire : Projet multidisciplinaire de génie logiciel</h1>
-    <b-container id="element">
+    <b-container class="element">
       <h2>Concept Général</h2>
       Ce projet est un robot qui doit effectuer différentes tâches précises.<br />
       <br />
@@ -14,17 +14,11 @@
       J'ai aussi été désigné par mon équipe pour être le chef d'équipe et de
       m'occuper de la logistique.
     </b-container>
-    <b-container id="element">
-      <div class="embed-responsive embed-responsive-16by9">
-        <iframe
-          class="embed-responsive-item"
-          src="https://drive.google.com/file/d/14GbNYwVmRLWRU07LBCjFS8j_Hmq3Nz4M/preview"
-          allowfullscreen
-        ></iframe>
-      </div>
+    <b-container class="element">
+      <video-embed src="https://youtu.be/wrO-QBCEOWI"></video-embed>
     </b-container>
     <b-container id="endDoc">
-      <b-row id="element" class="text-center">
+      <b-row class="element">
         <b-col>
           <h3>Lien GitHub:</h3>
           <a href="https://github.com/jpbel65/Robot-D3-E9-H2019"
@@ -43,7 +37,7 @@ export default {
 </script>
 
 <style scoped>
-#element {
+.element {
   padding-top: 50px;
   text-align: center;
 }

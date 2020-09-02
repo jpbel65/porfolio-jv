@@ -19,8 +19,8 @@
           >Curriculum Vitae</a
         ><br />
         <a
-          href="https://drive.google.com/file/d/1bmF34my206LsUx1kE1neelIuMrxWhwCj/view?usp=sharing"
-          >Relever Note Automne 2019</a
+          href="https://drive.google.com/file/d/1ZEVjSB2aDCAvXl6bwiU1BDxGzsrQi9_q/view?usp=sharing"
+          >Relever Note Automne 2020</a
         >
       </b-col>
       <b-col sm="8">
@@ -28,7 +28,7 @@
           src="../assets/IMG_20191225_150844.jpg"
           width="400"
           height="300"
-          style="transform: rotate(90deg)"
+          style="transform: rotate(270deg)"
         />
       </b-col>
     </b-row>
