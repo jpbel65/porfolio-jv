@@ -4,15 +4,15 @@
     <h2>Bienvenue</h2>
     <b-row id="element">
       <b-col sm="4">
-        Je suis étudiant en 3eme année en génie logiciel à l'université Laval.
+        Je suis étudiant en 4eme année en génie logiciel à l'université Laval.
         Je suis débrouillard, social et investit dans mon travail. Je suis
         passionné de jeu vidéo et de culture vidéo-ludique. Je cherche à
         agrandir mes connaissances dans le métier de la production de jeu
         vidéo.<br />
         <br />
-        Je me spécialise dans la programmation gameplay. Cependant, je
-        m'intéresse aussi la programmation d'outil et en programmation de réseau
-        en ligne.<br />
+        Je suis à la recherche d'un stage pour l'hiver 2020. Je souhaite
+        partager mon savoir-faire et mes connaissances dans le domaine du jeu
+        vidéo avec le plus grand nombre de personne.<br />
         <br />
         <a
           href="https://drive.google.com/file/d/1Dhx7zsXDTPVBMs60rUnym5xgp89yPYP6/view?usp=sharing"
