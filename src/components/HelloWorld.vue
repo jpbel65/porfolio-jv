@@ -10,7 +10,7 @@
         agrandir mes connaissances dans le métier de la production de jeu
         vidéo.<br />
         <br />
-        Je suis à la recherche d'un stage pour l'hiver 2020. Je souhaite
+        Je suis à la recherche d'un stage pour l'hiver 2021. Je souhaite
         partager mon savoir-faire et mes connaissances dans le domaine du jeu
         vidéo avec le plus grand nombre de personne.<br />
         <br />
